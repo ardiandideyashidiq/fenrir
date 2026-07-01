@@ -92,6 +92,7 @@ The following devices are currently supported:
 | Nothing Phone (2a) Plus | `PacmanPro` |
 | CMF Phone 1 | `Tetris` |
 | Lenovo IdeaTab Pro / Xiaoxin Pad Pro 12.7 | `peridotl` |
+| itel VistaTab 30 Pro | `P13001L` |
 | Tecno Pova 4 | `LG7n` |
 | Tecno Pova 4 Pro | `LG8n` |
 | Tecno Pova 5 | `LH7n` |
